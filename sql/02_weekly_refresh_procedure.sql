@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////
+// Prescription Claims Analysis Project
+// Isabel Bennett
+// Spring 2026, SEIS 732
+//
+// Purpose: Transform raw prescription claims data into a
+// structured, analysis friendly format.
+/////////////////////////////////////////////////////////////////////
+
+    
 // Initial Setup 
 USE ROLE TRAINING_ROLE;
 
