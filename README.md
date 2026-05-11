@@ -33,7 +33,7 @@ The project follows a data warehousing workflow:
 ## Repository Structure
 
 - `sql/` — Snowflake SQL scripts for curation, procedures, aggregation, functions, and tasks
-- `dashboard/` — Streamlit dashboard code
+- `dashboard/` — Streamlit dashboard code and screenshots
 
 ## Main Analysis Questions
 
